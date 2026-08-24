@@ -329,6 +329,9 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2026 |  |  | [Triangle Splatting SLAM](https://arxiv.org/abs/2605.31419)     | [Project](https://nmjfry.github.io/triangle-splatting-slam/) |  |
 | 2026 |  | MLP Splatting | [MLP Splatting: Object-Centric Neural Fields](https://arxiv.org/abs/2606.03877)     | [Project](https://www.shinjeongkim.com/mlp-splatting/) |  |
 | 2026 |  | HiGS | [HiGS: A Hierarchical Rendering Architecture for Real-Time 3D Gaussian Splatting](https://arxiv.org/abs/2606.00352)     | [Project](https://research.nvidia.com/labs/sil/projects/higs/) | [GitHub](https://github.com/nerfstudio-project/gsplat#inference-rendering) |
+| 2026 |  |  | [Immediate 3D Gaussian Splat Reconstruction of Unordered Input with Global Consistency](https://arxiv.org/abs/2607.14481)     |  |  |
+| 2026 | ECCV | FoundationGeo | [FoundationGeo: Learning Spatial Pixel-Wise Fields for Monocular Metric Geometry](https://arxiv.org/abs/2607.11588)     | [Project](https://mx-liu6.github.io/FoundationGeo-web/) | [GitHub](https://github.com/mx-liu6/FoundationGeo) |
+| 2026 | ECCV | WildSplat | [WildSplat: Feedforward Gaussian Splatting from Unposed In-the-Wild Images](https://arxiv.org/abs/2607.11588)     | [Project](https://arxiv.org/abs/2607.05347) | |
 
 
 
@@ -402,6 +405,13 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2026 |  | R3 | [R3: 3D Reconstruction via Relative Regression](https://arxiv.org/abs/2605.26519)     | [Project](https://kevinxu02.github.io/r3-site/) | [GitHub](https://github.com/KevinXu02/R3) |
 | 2026 |  | RayDer | [RayDer: Scalable Self-Supervised Novel View Synthesis from Real-World Video](https://arxiv.org/abs/2605.31535)     | [Project](https://compvis.github.io/rayder/) | [GitHub](https://github.com/CompVis/rayder) |
 | 2026 |  | Déjà View | [Déjà View: Looping Transformers for Multi-View 3D Reconstruction](https://arxiv.org/abs/2605.30215)     | [Project](https://research.nvidia.com/labs/dvl/projects/dvlt/) | [GitHub](https://github.com/nv-tlabs/dvlt) |
+| 2026 | ACM MM | SalientGS | [SalientGS: Unified SfM-to-3DGS with Importance-Guided MCMC Gaussian Allocation](https://arxiv.org/abs/2605.30215)     | [Project](https://arxiv.org/abs/2607.11285) | [GitHub](https://github.com/Six-Bit-TX/SalientGS) |
+| 2026 |  |  | [Bake It Till You Make It: Ultrafast Spatial Texture-Atlas Splatting](https://arxiv.org/abs/2607.13808)     | [Project](https://nilkel.github.io/bitymi/) | [GitHub](https://github.com/Six-Bit-TX/SalientGS) |
+| 2026 | ACM MM | VGGT-Align | [VGGT-Align: Bridging Local Reconstruction and Global Consistency for Long-Sequence 3D Reconstruction](https://arxiv.org/abs/2608.15260)     |  | [GitHub](https://github.com/WZ-CS/VGGT-Align) |
+| 2026 | Siggraph Asia | InfiniSplat | [InfiniSplat: Implicit Gaussian Decoding for Large-Baseline Monocular View Synthesis](https://arxiv.org/abs/2608.02437)     | [Project](https://zju3dv.github.io/InfiniSplat/) | [GitHub](https://github.com/zju3dv/InfiniSplat) |
+| 2026 |  | Glob3R | [Glob3R: Global Structure-from-Motion with 3D Foundation Models](https://arxiv.org/abs/2607.09225)     | [Project](https://junyuandeng.github.io/Glob3r/) | [GitHub](https://github.com/aigc3d/Glob3R) |
+| 2026 |  | ReCal3R | [ReCal3R: Reliability-Calibrated Learning Rates for Streaming 3D Reconstruction](https://arxiv.org/abs/2607.05356)     | [Project](https://powertony102.github.io/recal3r.github.io/) | [GitHub](https://github.com/Powertony102/ReCal3R) |
+
 
 
 ## Level 3 -- 4D dynamic scenes
@@ -518,6 +528,10 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2026 |  | NoPo4D | [No Pose, No Problem in 4D: Feed-Forward Dynamic Gaussians from Unposed Multi-View Videos](https://arxiv.org/abs/2605.22190)     | [Project](https://bralani.github.io/nopo4d_html/) | [GitHub](https://github.com/bralani/NoPo4D) |
 | 2026 | CVPR | VGGT-Ω | [VGGT-Ω](https://arxiv.org/abs/2605.15195)     | [Project](https://vggt-omega.github.io/) | [GitHub](https://github.com/facebookresearch/vggt-omega) |
 | 2026 | CVPR | NeuROK | [NeuROK: Generative 4D Neural Object Kinematics](https://arxiv.org/abs/2605.30347)     | [Project](https://chen-geng.com/neurok) |  |
+| 2026 |  | IGGT4D | [IGGT4D: Streaming 4D Instance-Grounded Geometry Transformer](https://arxiv.org/abs/2607.19228)     | [Project](https://iggt4d.github.io/) | [GitHub](https://github.com/HorizonRobotics/IGGT4D) |
+| 2026 |  |  | [Beyond Pixels: From Video Priors to 4D Worlds](https://arxiv.org/abs/2608.10744)     | [Project](https://hayd-zju.github.io/Beyond-Pixels/) | [GitHub](https://github.com/hayd-zju/Beyond-Pixels) |
+| 2026 | ECCV | MAGiSt3R | [MAGiSt3R: Multi-Agent Feed-forward 3D Reconstruction from Monocular RGB Videos](https://arxiv.org/abs/2607.15211)     | [Project](https://zorangong.github.io/magist3r_page/) | |
+| 2026 | ECCV | OmniX | [OmniX: Any-view and Any-time 4D Reconstruction via Feed-forward Trajectory Fields](https://arxiv.org/abs/2607.10840)     | [Project](https://omnix4d.github.io/) | [GitHub](https://github.com/yanqinJiang/OmniX) |
 
 
 
@@ -685,6 +699,8 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2024 | CVPR | TRUMANS | [Scaling Up Dynamic Human-Scene Interaction Modeling](https://arxiv.org/pdf/2403.08629)     | [Project](https://jnnan.github.io/trumans/) | [GitHub](https://github.com/jnnan/trumans_utils) |
 | 2025 | arXiv | JOSH | [Joint Optimization for 4D Human-Scene Reconstruction in the Wild](https://arxiv.org/abs/2501.02158)     | [Project](https://genforce.github.io/JOSH/) | [GitHub](https://github.com/genforce/JOSH) |
 | 2025 | CVPR | ODHSR | [ODHSR: Online Dense 3D Reconstruction of Humans and Scenes from Monocular Videos](https://arxiv.org/abs/2504.13167)     | [Project](https://eth-ait.github.io/ODHSR/) | |
+| 2025 |  | GUSH3R | [GUSH3R: Everyone Everywhere All at Once as Gaussians](https://arxiv.org/abs/2607.05243)     | [Project](https://abkeito.github.io/gush3r-page/) | [GitHub](https://github.com/abkeito/GUSH3R)|
+
 
 
 ### SMPL-based human-centric interaction - HHI
