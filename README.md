@@ -125,6 +125,7 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2025 | NeurIPS | TrackingWorld | [TrackingWorld: World-centric Monocular 3D Tracking of Almost All Pixels](https://arxiv.org/abs/2512.08358) | [Project](https://igl-hkust.github.io/TrackingWorld.github.io/) | [GitHub](https://github.com/IGL-HKUST/TrackingWorld) |
 | 2025 | | HybridSplat | [HybridSplat: Fast Reflection-baked Gaussian Tracing using Hybrid Splatting](https://arxiv.org/abs/2512.08334) | [Project](https://aetheryne.github.io/HybridSplat/) | |
 | 2025 | | MatchAnything | [MatchAnything: Universal Cross-Modality Image Matching with Large-Scale Pre-Training](https://arxiv.org/abs/2501.07556) | [Project](https://zju3dv.github.io/MatchAnything/) | [GitHub](https://github.com/zju3dv/MatchAnything)|
+| 2026 | | SSMB | [SSMB: Self-Supervised Local Feature Detection under Motion Blur](https://arxiv.org/abs/2608.27181) |  | |
 
 
 ---
@@ -165,6 +166,7 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2026 |    | Diff3R | [Diff3R: Feed-forward 3D Gaussian Splatting with Uncertainty-aware Differentiable Optimization](https://arxiv.org/abs/2604.01030) | [Project](https://liu115.github.io/diff3r) |  |
 | 2026 |  CVPR  | PAGaS | [PAGaS: Pixel-Aligned 1DoF Gaussian Splatting for Depth Refinement](https://arxiv.org/abs/2604.22129) | [Project](https://davidrecasens.github.io/pagas/) | [GitHub](https://github.com/UZ-SLAMLab/pagas) |
 | 2026 |  CVPR  | QVGGT | [QVGGT: Post-Training Quantized Visual Geometry Grounded Transformer](https://arxiv.org/abs/2605.31124) | [Project](https://ddsacu.github.io/QVGGT/) | [GitHub](https://github.com/DDsacu/QVGGT) |
+| 2026 |  ECCV  | BLASt3R | [BLASt3R: Bundle Adjustment of Any Image Set with Multi-View Matching and Monocular Priors](https://arxiv.org/abs/2609.05210) | [Project](https://europe.naverlabs.com/research/publications/blast3r-bundle-adjustment-of-any-image-set-with-multi-view-matching-and-monocular-priors/) | [GitHub](https://github.com/naver/blast3r) |
 
 
 
@@ -204,6 +206,7 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2026 | CVPR  | VGGT-Det | [VGGT-Det: Mining VGGT Internal Priors for Sensor-Geometry-Free Multi-View Indoor 3D Object Detection](https://arxiv.org/abs/2603.00912) |  | [GitHub](https://github.com/yangcaoai/VGGT-Det-CVPR2026) |
 | 2026 | ICLR  | Real-3DQA | [Do 3D Large Language Models Really Understand 3D Spatial Relationships?](https://arxiv.org/abs/2603.23523) | [Project](https://real-3dqa.github.io/) | [GitHub](https://github.com/xianzhengma/Real-3DQA) |
 | 2026 | CVPR  | Speed3R | [Speed3R: Sparse Feed-forward 3D Reconstruction Models](https://arxiv.org/abs/2603.08055) | [Project](https://visual-ai.github.io/speed3r/) | [GitHub](https://github.com/Visual-AI/speed3r) |
+| 2026 |  | HiSfM | [HiSfM: Disambiguating Structure-from-Motion via Scaffold-Anchored Hierarchical Reconstruction](https://arxiv.org/abs/2609.04718) |  | [GitHub](https://github.com/3dv-casia/HiSfM) |
 
 ## Level 2 -- 3D scene components
 
@@ -332,6 +335,7 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2026 |  |  | [Immediate 3D Gaussian Splat Reconstruction of Unordered Input with Global Consistency](https://arxiv.org/abs/2607.14481)     |  |  |
 | 2026 | ECCV | FoundationGeo | [FoundationGeo: Learning Spatial Pixel-Wise Fields for Monocular Metric Geometry](https://arxiv.org/abs/2607.11588)     | [Project](https://mx-liu6.github.io/FoundationGeo-web/) | [GitHub](https://github.com/mx-liu6/FoundationGeo) |
 | 2026 | ECCV | WildSplat | [WildSplat: Feedforward Gaussian Splatting from Unposed In-the-Wild Images](https://arxiv.org/abs/2607.11588)     | [Project](https://arxiv.org/abs/2607.05347) | |
+| 2026 |  | ZipMVS | [ZipMVS: Multi-View Stereo with Compressed Cost Volumes](https://arxiv.org/abs/2608.28033)     |  | [GitHub](https://github.com/JihnGlyn/ZipMVS) |
 
 
 
@@ -411,7 +415,10 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2026 | Siggraph Asia | InfiniSplat | [InfiniSplat: Implicit Gaussian Decoding for Large-Baseline Monocular View Synthesis](https://arxiv.org/abs/2608.02437)     | [Project](https://zju3dv.github.io/InfiniSplat/) | [GitHub](https://github.com/zju3dv/InfiniSplat) |
 | 2026 |  | Glob3R | [Glob3R: Global Structure-from-Motion with 3D Foundation Models](https://arxiv.org/abs/2607.09225)     | [Project](https://junyuandeng.github.io/Glob3r/) | [GitHub](https://github.com/aigc3d/Glob3R) |
 | 2026 |  | ReCal3R | [ReCal3R: Reliability-Calibrated Learning Rates for Streaming 3D Reconstruction](https://arxiv.org/abs/2607.05356)     | [Project](https://powertony102.github.io/recal3r.github.io/) | [GitHub](https://github.com/Powertony102/ReCal3R) |
-
+| 2026 | ECCV | Scal3R | [Scal3R: Learning Efficient Multi-Relative Pose Query for Scalable Online 3D Reconstruction](https://arxiv.org/abs/2609.04201)     | [Project](https://linjohnss.github.io/scal3r/) | [GitHub](https://github.com/NVlabs/scal3r) |
+| 2026 | ECCV | ReconSplat | [ReconSplat: Generalizable 3D Scene Reconstruction Beyond Observed Views](https://arxiv.org/abs/2608.28895)     | [Project](https://visinf.github.io/reconsplat/) | [GitHub](https://github.com/visinf/reconsplat) |
+| 2026 |  | VGGT-Align | [VGGT-Align: Bridging Local Reconstruction and Global Consistency for Long-Sequence 3D Reconstruction](https://arxiv.org/abs/2608.15260)     |  | [GitHub](https://github.com/WZ-CS/VGGT-Align) |
+| 2026 |  | LightFuse | [LightFuse: Relightable Interactive Gaussian Scene Reconstruction via Multi-Scan Fusion and 2D Gaussian Ray Tracing](https://arxiv.org/abs/2608.29269)     | [Project](https://zhn202.github.io/LightFuse/)  |  |
 
 
 ## Level 3 -- 4D dynamic scenes
@@ -532,6 +539,7 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2026 |  |  | [Beyond Pixels: From Video Priors to 4D Worlds](https://arxiv.org/abs/2608.10744)     | [Project](https://hayd-zju.github.io/Beyond-Pixels/) | [GitHub](https://github.com/hayd-zju/Beyond-Pixels) |
 | 2026 | ECCV | MAGiSt3R | [MAGiSt3R: Multi-Agent Feed-forward 3D Reconstruction from Monocular RGB Videos](https://arxiv.org/abs/2607.15211)     | [Project](https://zorangong.github.io/magist3r_page/) | |
 | 2026 | ECCV | OmniX | [OmniX: Any-view and Any-time 4D Reconstruction via Feed-forward Trajectory Fields](https://arxiv.org/abs/2607.10840)     | [Project](https://omnix4d.github.io/) | [GitHub](https://github.com/yanqinJiang/OmniX) |
+| 2026 |  | ATGS | [ATGS: Anchored Temporal Gaussian Splatting for Long Volumetric Video Representation](https://arxiv.org/abs/2608.30184)     | [Project](https://wujh2001.github.io/ATGS/) | [GitHub](https://github.com/WuJH2001/ATGS) |
 
 
 
